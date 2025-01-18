@@ -1,0 +1,3 @@
+aiogram
+requests
+web: python bot.py
